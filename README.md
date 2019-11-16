@@ -9,7 +9,7 @@ So we can easily find the participant who pressed first.
 
 3 codes have created here.
 1. Named as Quatter_final.
-	Here 7 teams on same stage.
+	(Here 7 teams on same stage.)
 2. Named as Semi_final
 3. Named as Semi_final_v2.0
-	These both are similary same. Two teams are on same stage and each team has five participants.
+	(These both are similary same. Two teams are on same stage and each team has five participants.)
